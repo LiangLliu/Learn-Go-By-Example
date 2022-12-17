@@ -27,6 +27,6 @@
     * append
 
 ## Structs, methods & interfaces
-* Structs
-* Methods
-* Interfaces
+* structs
+* methods
+* interfaces
