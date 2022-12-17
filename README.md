@@ -2,6 +2,7 @@
 
 * [learn-go-with-tests](https://quii.gitbook.io/learn-go-with-tests/)
 * [learn-go-with-tests-cn](https://studygolang.gitbook.io/learn-go-with-tests/)
+* [Go-By-Example](https://gobyexample.com/)
 
 ## hello
 
@@ -46,4 +47,6 @@
     * 通过测试我们得出结论，在错误中检查字符串会导致测试不稳定。因此，我们用一个有意义的值重构了，这样就更容易测试代码，同时对于我们
       API 的用户来说也更简单
 
+## maps
 
+* 初始化map，并且使用 `增删改查` 操作map
