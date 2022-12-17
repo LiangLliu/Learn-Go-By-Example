@@ -18,3 +18,6 @@
 ## iteration
 
 * for
+
+## arrays
+* arrays
