@@ -50,3 +50,11 @@
 ## maps
 
 * 初始化map，并且使用 `增删改查` 操作map
+
+## di
+
+* 依赖注入
+
+## mocking
+
+* mocking
