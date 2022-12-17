@@ -14,3 +14,7 @@
 ## integers
 
 * ``integers``, `adder`
+
+## iteration
+
+* for
