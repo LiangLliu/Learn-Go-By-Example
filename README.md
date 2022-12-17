@@ -20,4 +20,8 @@
 * for
 
 ## arrays
+
 * arrays
+* slices
+    * init slices
+    * append 
