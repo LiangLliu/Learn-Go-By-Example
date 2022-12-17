@@ -1,4 +1,4 @@
-package main
+package hello
 
 import "testing"
 
@@ -34,6 +34,12 @@ func TestHello(t *testing.T) {
 	t.Run("should say Bonjour Elodie when in French and given Elodie", func(t *testing.T) {
 		got := Hello("Elodie", "French")
 		want := "Bonjour, Elodie"
+		assertCorrectMessage(t, got, want)
+	})
+
+	t.Run("should say 你好 Elodie when in Chinese and given Elodie", func(t *testing.T) {
+		got := Hello("Elodie", "Chinese")
+		want := "你好, Elodie"
 		assertCorrectMessage(t, got, want)
 	})
 
