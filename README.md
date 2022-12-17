@@ -24,4 +24,9 @@
 * arrays
 * slices
     * init slices
-    * append 
+    * append
+
+## Structs, methods & interfaces
+* Structs
+* Methods
+* Interfaces
