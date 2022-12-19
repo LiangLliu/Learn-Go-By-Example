@@ -79,3 +79,10 @@
 
 * reflect的使用
 * 使用递归遍历任意数据结构
+
+## sync
+
+* Mutex
+  * 允许我们在数据中添加锁
+* WaitGroup
+  * 等待goroutines完成工作的一种方式
