@@ -83,6 +83,10 @@
 ## sync
 
 * Mutex
-  * 允许我们在数据中添加锁
+    * 允许我们在数据中添加锁
 * WaitGroup
-  * 等待goroutines完成工作的一种方式
+    * 等待goroutines完成工作的一种方式
+
+## context
+
+* 接受 context，并使用它来取消自己使用的 goroutines， select 和 通道
